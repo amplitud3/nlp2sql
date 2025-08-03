@@ -9,7 +9,7 @@ Proof of Concept converting English questions to SQL queries using OpenAI.
 - Error correction with 3 retries
 
 
-###setup
+## setup
     
    1. Set up a virtual environment
       python3 -m venv n2s
