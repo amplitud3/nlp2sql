@@ -27,7 +27,7 @@ Proof of Concept converting English questions to SQL queries using OpenAI.
       python3 nlp2sql.py
       add the questions in the nl2sql.py inside the the  questions =[] 
       in the main function seperated by commas.
-      
+ ```     
 ## Example Output
 
 
