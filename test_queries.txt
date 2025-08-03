@@ -1,0 +1,2 @@
+1. "Show purchases from Bangalore"
+2. "List users with most orders"
