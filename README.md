@@ -30,9 +30,9 @@ Proof of Concept converting English questions to SQL queries using OpenAI.
 ## Example Output
 
 
-![Query Output 1](images/output.png)
+![Query Output 1](output.png)
 
-![Query Output 2](images/output2.png)
+![Query Output 2](output2.png)
       
       
           
